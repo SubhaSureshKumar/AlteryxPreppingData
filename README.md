@@ -1,4 +1,5 @@
-# Alteryx_DataPrep 
+# Alteryx_Preppin' Data
+
 This repository has the solutions for the data preparation challenges posted in the website https://preppindata.blogspot.com/p/the-challenge-index.html for the year 2023
 All challenges are solved using Alteryx.
 
