@@ -8,3 +8,5 @@ week1: https://preppindata.blogspot.com/2023/01/2023-week-1-data-source-bank.htm
 week2: https://preppindata.blogspot.com/2023/01/2023-week-2-international-bank-account.html
 
 week3: https://preppindata.blogspot.com/2023/01/2023-week-3-targets-for-dsb.html
+
+week4: https://preppindata.blogspot.com/2023/01/2023-week-4-new-customers.html
